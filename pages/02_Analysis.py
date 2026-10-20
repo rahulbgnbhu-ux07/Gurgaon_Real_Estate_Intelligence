@@ -4,7 +4,8 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyNPiyw5XrVCyW5o6U6Au1z8"
+      "authorship_tag": "ABX9TyN1hIiX6YsDyAtQDWXiGh5g",
+      "include_colab_link": true
     },
     "kernelspec": {
       "name": "python3",
@@ -15,6 +16,16 @@
     }
   },
   "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/rahulbgnbhu-ux07/Gurgaon_Real_Estate_Intelligence/blob/main/pages/02_Analysis.py\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
     {
       "cell_type": "code",
       "execution_count": 1,
@@ -382,7 +393,7 @@
         "id": "NZegqZF4SHRp",
         "outputId": "5fd2b136-f8c2-4fec-9d7f-50fd191c16c0"
       },
-      "execution_count": None,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1331,7 +1342,7 @@
         "id": "2FcudAG4UNQD",
         "outputId": "01ee54b0-7f28-45f6-8454-00c4e2c84231"
       },
-      "execution_count": None,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -3327,8 +3338,8 @@
     {
       "cell_type": "code",
       "source": [
-        "from google.colab import files\n",
-        "files.download('data_viz1.csv')"
+        "# from google.colab import files\n",
+        "# files.download('data_viz1.csv')"
       ],
       "metadata": {
         "colab": {
@@ -3412,7 +3423,7 @@
       "metadata": {
         "id": "7_WDN9CS2WxV"
       },
-      "execution_count": None,
+      "execution_count": null,
       "outputs": []
     }
   ]
