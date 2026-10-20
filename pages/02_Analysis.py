@@ -2,6 +2,10 @@
   "nbformat": 4,
   "nbformat_minor": 0,
   "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNPiyw5XrVCyW5o6U6Au1z8"
+    },
     "kernelspec": {
       "name": "python3",
       "display_name": "Python 3"
@@ -11,16 +15,6 @@
     }
   },
   "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/rahulbgnbhu-ux07/Gurgaon_Real_Estate_Intelligence/blob/main/pages/02_Analysis.py\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
     {
       "cell_type": "code",
       "execution_count": 1,
