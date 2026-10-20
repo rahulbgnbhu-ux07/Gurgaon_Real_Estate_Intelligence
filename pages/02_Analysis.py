@@ -382,7 +382,7 @@
         "id": "NZegqZF4SHRp",
         "outputId": "5fd2b136-f8c2-4fec-9d7f-50fd191c16c0"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1331,7 +1331,7 @@
         "id": "2FcudAG4UNQD",
         "outputId": "01ee54b0-7f28-45f6-8454-00c4e2c84231"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -3412,7 +3412,7 @@
       "metadata": {
         "id": "7_WDN9CS2WxV"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     }
   ]
